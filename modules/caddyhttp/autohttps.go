@@ -23,8 +23,8 @@ import (
 	"github.com/caddyserver/certmagic"
 	"go.uber.org/zap"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/modules/caddytls"
+	"github.com/impostorkeanu/caddy/v2"
+	"github.com/impostorkeanu/caddy/v2/modules/caddytls"
 )
 
 // AutoHTTPSConfig is used to disable automatic HTTPS

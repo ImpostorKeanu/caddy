@@ -3,9 +3,9 @@ package testmocks
 import (
 	"crypto/x509"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/caddyserver/caddy/v2/modules/caddytls"
+	"github.com/impostorkeanu/caddy/v2"
+	"github.com/impostorkeanu/caddy/v2/caddyconfig/caddyfile"
+	"github.com/impostorkeanu/caddy/v2/modules/caddytls"
 )
 
 func init() {

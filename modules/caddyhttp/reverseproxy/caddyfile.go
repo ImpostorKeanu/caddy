@@ -23,14 +23,14 @@ import (
 
 	"github.com/dustin/go-humanize"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/caddyconfig"
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/caddyserver/caddy/v2/caddyconfig/httpcaddyfile"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp/headers"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp/rewrite"
-	"github.com/caddyserver/caddy/v2/modules/caddytls"
+	"github.com/impostorkeanu/caddy/v2"
+	"github.com/impostorkeanu/caddy/v2/caddyconfig"
+	"github.com/impostorkeanu/caddy/v2/caddyconfig/caddyfile"
+	"github.com/impostorkeanu/caddy/v2/caddyconfig/httpcaddyfile"
+	"github.com/impostorkeanu/caddy/v2/modules/caddyhttp"
+	"github.com/impostorkeanu/caddy/v2/modules/caddyhttp/headers"
+	"github.com/impostorkeanu/caddy/v2/modules/caddyhttp/rewrite"
+	"github.com/impostorkeanu/caddy/v2/modules/caddytls"
 )
 
 func init() {

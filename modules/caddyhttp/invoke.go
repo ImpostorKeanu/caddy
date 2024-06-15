@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/caddyserver/caddy/v2"
+	"github.com/impostorkeanu/caddy/v2"
 )
 
 func init() {

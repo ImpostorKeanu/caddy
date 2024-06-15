@@ -24,7 +24,7 @@ import (
 	"github.com/caddyserver/certmagic"
 	"go.uber.org/zap"
 
-	"github.com/caddyserver/caddy/v2"
+	"github.com/impostorkeanu/caddy/v2"
 )
 
 func init() {

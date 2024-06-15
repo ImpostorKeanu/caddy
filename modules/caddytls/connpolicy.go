@@ -29,9 +29,9 @@ import (
 	"github.com/mholt/acmez/v2"
 	"go.uber.org/zap"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/caddyconfig"
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
+	"github.com/impostorkeanu/caddy/v2"
+	"github.com/impostorkeanu/caddy/v2/caddyconfig"
+	"github.com/impostorkeanu/caddy/v2/caddyconfig/caddyfile"
 )
 
 func init() {

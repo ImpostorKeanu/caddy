@@ -18,13 +18,13 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/caddyconfig"
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/caddyserver/caddy/v2/caddyconfig/httpcaddyfile"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp/encode"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp/rewrite"
+	"github.com/impostorkeanu/caddy/v2"
+	"github.com/impostorkeanu/caddy/v2/caddyconfig"
+	"github.com/impostorkeanu/caddy/v2/caddyconfig/caddyfile"
+	"github.com/impostorkeanu/caddy/v2/caddyconfig/httpcaddyfile"
+	"github.com/impostorkeanu/caddy/v2/modules/caddyhttp"
+	"github.com/impostorkeanu/caddy/v2/modules/caddyhttp/encode"
+	"github.com/impostorkeanu/caddy/v2/modules/caddyhttp/rewrite"
 )
 
 func init() {

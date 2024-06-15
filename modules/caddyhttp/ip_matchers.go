@@ -27,8 +27,8 @@ import (
 	"github.com/google/cel-go/common/types/ref"
 	"go.uber.org/zap"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
+	"github.com/impostorkeanu/caddy/v2"
+	"github.com/impostorkeanu/caddy/v2/caddyconfig/caddyfile"
 )
 
 // MatchRemoteIP matches requests by the remote IP address,

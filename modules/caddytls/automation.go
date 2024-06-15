@@ -27,7 +27,7 @@ import (
 	"github.com/mholt/acmez/v2"
 	"go.uber.org/zap"
 
-	"github.com/caddyserver/caddy/v2"
+	"github.com/impostorkeanu/caddy/v2"
 )
 
 // AutomationConfig governs the automated management of TLS certificates.

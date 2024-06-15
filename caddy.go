@@ -39,8 +39,8 @@ import (
 	"github.com/google/uuid"
 	"go.uber.org/zap"
 
-	"github.com/caddyserver/caddy/v2/internal/filesystems"
-	"github.com/caddyserver/caddy/v2/notify"
+	"github.com/impostorkeanu/caddy/v2/internal/filesystems"
+	"github.com/impostorkeanu/caddy/v2/notify"
 )
 
 // Config is the top (or beginning) of the Caddy configuration structure.

@@ -35,9 +35,9 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/modules/caddyevents"
-	"github.com/caddyserver/caddy/v2/modules/caddytls"
+	"github.com/impostorkeanu/caddy/v2"
+	"github.com/impostorkeanu/caddy/v2/modules/caddyevents"
+	"github.com/impostorkeanu/caddy/v2/modules/caddytls"
 )
 
 // Server describes an HTTP server.

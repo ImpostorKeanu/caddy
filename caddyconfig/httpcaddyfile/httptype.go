@@ -26,12 +26,12 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/caddyconfig"
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
-	"github.com/caddyserver/caddy/v2/modules/caddypki"
-	"github.com/caddyserver/caddy/v2/modules/caddytls"
+	"github.com/impostorkeanu/caddy/v2"
+	"github.com/impostorkeanu/caddy/v2/caddyconfig"
+	"github.com/impostorkeanu/caddy/v2/caddyconfig/caddyfile"
+	"github.com/impostorkeanu/caddy/v2/modules/caddyhttp"
+	"github.com/impostorkeanu/caddy/v2/modules/caddypki"
+	"github.com/impostorkeanu/caddy/v2/modules/caddytls"
 )
 
 func init() {

@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/caddyserver/caddy/v2/caddytest"
+	"github.com/impostorkeanu/caddy/v2/caddytest"
 )
 
 func setupListenerWrapperTest(t *testing.T, handlerFunc http.HandlerFunc) *caddytest.Tester {

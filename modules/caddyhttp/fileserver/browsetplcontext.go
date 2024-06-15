@@ -29,8 +29,8 @@ import (
 	"github.com/dustin/go-humanize"
 	"go.uber.org/zap"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
+	"github.com/impostorkeanu/caddy/v2"
+	"github.com/impostorkeanu/caddy/v2/modules/caddyhttp"
 )
 
 func (fsrv *FileServer) directoryListing(ctx context.Context, fileSystem fs.FS, entries []fs.DirEntry, canGoUp bool, root, urlPath string, repl *caddy.Replacer) *browseTemplateContext {

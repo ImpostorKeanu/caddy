@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	_ "github.com/caddyserver/caddy/v2/modules/logging"
+	"github.com/impostorkeanu/caddy/v2/caddyconfig/caddyfile"
+	_ "github.com/impostorkeanu/caddy/v2/modules/logging"
 )
 
 func TestLogDirectiveSyntax(t *testing.T) {

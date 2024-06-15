@@ -22,7 +22,7 @@ import (
 
 	"github.com/caddyserver/certmagic"
 
-	"github.com/caddyserver/caddy/v2"
+	"github.com/impostorkeanu/caddy/v2"
 )
 
 func init() {

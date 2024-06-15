@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/caddyserver/caddy/v2/caddytest"
+	"github.com/impostorkeanu/caddy/v2/caddytest"
 )
 
 func TestBrowse(t *testing.T) {
